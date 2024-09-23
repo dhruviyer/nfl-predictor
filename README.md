@@ -14,6 +14,5 @@ Data Sources:
 [NFL Betting Data](https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data/code)
 [Scores](https://www.kaggle.com/datasets/keonim/nfl-game-scores-dataset-2017-2023)
 
-> **Warning**
->
+> [!CAUTION]
 > This repo is for entertainment purposes only. Betting always runs the risk of loss.
