@@ -12,6 +12,7 @@ An interesting implication of (2) is you can use this to deicde whether to make 
 Data Sources:
 
 [NFL Betting Data](https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data/code)
+
 [Scores](https://www.kaggle.com/datasets/keonim/nfl-game-scores-dataset-2017-2023)
 
 > [!CAUTION]
